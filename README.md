@@ -4,6 +4,11 @@ A full-stack Team Project Management web application where admins can create pro
 
 ---
 
+## Live Demo
+
+Deployed Project Link:  
+[Click Here to Open Project]  (https://team-project-management-kappa.vercel.app)
+
 ## Features
 
 - Admin Authentication
@@ -33,10 +38,15 @@ A full-stack Team Project Management web application where admins can create pro
 ---
 
 ## Project Screenshots
-<img width="1552" height="736" alt="Screenshot 2026-05-10 212728" src="https://github.com/user-attachments/assets/28b0c48b-e263-447f-b1c0-50a4aa33675b" /><img width="1695" height="800" alt="Screenshot 2026-05-10 212640" src="https://github.com/user-attachments/assets/29fd9838-091d-42f5-beee-7cca91d79df4" />
+
+
 <img width="1612" height="787" alt="Screenshot 2026-05-10 212627" src="https://github.com/user-attachments/assets/f7e9d4a4-8c0b-462e-aa72-1c49549cb1f5" />
 
 
+<img width="1552" height="736" alt="Screenshot 2026-05-10 212728" src="https://github.com/user-attachments/assets/28b0c48b-e263-447f-b1c0-50a4aa33675b" />
+
+
+<img width="1695" height="800" alt="Screenshot 2026-05-10 212640" src="https://github.com/user-attachments/assets/29fd9838-091d-42f5-beee-7cca91d79df4" />
 
 
 ## Installation
