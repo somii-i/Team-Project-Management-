@@ -11,8 +11,9 @@ Deployed Project Link:
 
 ## Demo Video
 
-[![Watch the video]([https://youtu.be/FDsTJ_1wOR0](https://youtu.be/FDsTJ_1wOR0?si=XJDE7P4tY_46WBoD))
-
+<a href="https://www.youtube.com/watch?v=FDsTJ_1wOR0&t=69s">
+  <img src="https://img.youtube.com/vi/FDsTJ_1wOR0/0.jpg" width="600">
+</a>
 
 ## Features
 
